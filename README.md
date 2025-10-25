@@ -25,13 +25,13 @@ Predict the selling price of cars using machine learning models: Linear Regressi
 
 ## Outcome / Results
 - **Linear Regression**
-  - R² Score: [Fill in your %]  
-  - MAE: [Fill in value]  
+  - R² Score: [73.5 %]  
+  - MAE: [1.57]  
 - **Random Forest Regressor**
-  - R² Score: [Fill in your %]  
-  - MAE: [Fill in value]  
+  - R² Score: [59.09 %]
+  - MAE: [1.37]  
 - **XGBoost Regressor**
-  - R² Score: [Fill in your %]  
-  - MAE: [Fill in value]  
-- Random Forest and XGBoost outperform Linear Regression for predicting car selling prices.
+  - R² Score: [79.72%]  
+  - MAE: [1.02]  
+- XGBoost outperform Linear Regression and Random Forest Regressor for predicting car selling prices.
 
